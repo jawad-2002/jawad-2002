@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Jawad Ahmad
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Web Development & C++ alongside Data Structures and Algorithms in Cpp.
+- 💞️ I’m looking to collaborate any project which could help me improve my skills.
+- 📫 How to reach me 
+- Gmail Account: jawadahmad4804@gmail.com
+- Whatsapp Number: +923463957305
+- Facebook: username:jawadahmad480
